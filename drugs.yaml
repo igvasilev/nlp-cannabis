@@ -1,0 +1,133 @@
+CBD:
+- cannabidiol
+CBDA:
+  - Cannabidiolic acid
+THC:
+  - Tetrahydrocannabinol
+THCA:
+  - THC-A
+  - Tetrahydrocannabinolic Acid
+CBN:
+  - Cannabinol
+CBG:
+  - Cannabigerol
+CBC:
+  - Cannabichromene
+CBL:
+  - Cannabicyclol
+THCV:
+  - THC-V
+  - Tetrahydrocannabivarin
+CBDV:
+  - CBD-V
+  - Cannabidivarin
+CBGV:
+  - CBG-V
+  - Cannabigerovarin
+CBCV:
+  - CBC-V
+  - Cannabichromevarin
+CBT:
+  - Cannabitriol
+CBE:
+  - Cannabielsoin
+CBGM:
+  - Cannabigerol monomethylether
+CBV:
+  - Cannabivarin
+THCVA:
+  - Delta-9-tetrahydrocannabivarinic acid
+CBDVA:
+  - Cannabidivarinic acid
+CBCVA:
+  - Cannabichromevarinic acid
+CBNV:
+  - Cannabinovarin
+CBCA:
+  - Cannabichromenic acid
+CBLA:
+  - Cannabicyclolic acid
+CBLV:
+  - Cannabicyclovarin
+CBD-C1:
+  - Cannabidiorcol
+CBDM:
+  - Cannabidiol monomethyl
+CBEA-B:
+  - Cannabielsoic acid B
+CBEA-A:
+  - Cannabielsoin acid A
+CBGA:
+  - Cannabigerolic acid
+CBGAM:
+  - Cannabigerolic acid monomethylether
+CBGVA:
+  - Cannabigerovarinic acid
+CBND:
+  - Cannabinodiol i
+CBVD:
+  - Cannabinodivarin
+CBNM:
+  - Cannabinol methylether
+CBN-C2:
+  - Cannabinol-C2
+CBN-C4:
+  - Cannabinol-C4
+CBNA:
+  - Cannabinolic acid
+CBN-C1:
+  - Cannabiorcool
+CBTV:
+  - Cannabitriolvarin
+'10-Ethoxy-9-hydroxy-delta-6a-tetrahydrocannabinol': []
+'8,9-Dihydroxy-delta-6a-tetrahydrocannabinol': []
+'Δ8-THC':
+  - Delta-8-tetrahydrocannabinol
+'Δ8-THCA':
+  - Delta-8-tetrahydrocannabinolic acid
+THC-C4:
+  - Delta-9-tetrahydrocannabinol-C4
+THCA-A:
+  - Delta-9-tetrahydrocannabinolic acid A
+THCA-B:
+  - Delta-9-tetrahydrocannabinolic acid B
+THCA-C4:
+  - Delta-9-tetrahydrocannabinolic acid-C4
+THC-C1:
+  - Delta-9-tetrahydrocannabiorcol
+THCA-C1:
+  - Delta-9-tetrahydrocannabiorcolic acid
+D9-THCV:  # I added D9 to deduplicate this key
+  - Delta-9-tetrahydrocannabivarin
+D9-THCVA: # I added D9 to deduplicate this key
+  - Delta-9-tetrahydrocannabivarinic acid
+OTHC:
+  - 10-Oxo-delta-6a-tetrahydrocannabinol
+CBCF:
+  - Cannabichromanon
+CBF:
+  - Cannabifuran
+Cannabiglendol: []
+CBR:
+  - Cannabiripsol
+DCBF:
+  - Dehydrocannabifuran
+cis-THC:
+  - Delta-9-cis-tetrahydrocannabinol
+triOH-THC:
+  - Tryhydroxy-delta-9-tetrahydrocannabinol
+OH-iso-HHCV: []
+CBEM:
+  - Cannabielsoin monomethylether
+CBNM-C5:
+  - Cannabinol methylether-C5
+CBNA-C5 A:
+  - Cannabinolic acid-C5 A
+CBN-C3:
+  - Cannabinol-C3
+CBND-C3:
+  - Cannabinodiol-C3
+CBD-C5:
+  - Cannabidiol-C5
+CBD-C4:
+  - Cannabidiol-C4
